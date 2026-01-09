@@ -12,6 +12,7 @@ backup/
 
 # tmux
 tmux/plugins/*
+!tmux/plugins/tpm/
 
 resurrect/
 last_resurrect_session
