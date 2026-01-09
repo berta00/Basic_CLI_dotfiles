@@ -1,4 +1,4 @@
-# Ultra-basic CLI dotfiles
+# Basic CLI dotfiles
 
 &nbsp;
 
