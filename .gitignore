@@ -1,0 +1,17 @@
+
+# neovim
+**/lua/plugins/bin/
+
+*.swp
+*.swo
+undo/
+backup/
+
+*.log
+
+
+# tmux
+plugins/
+
+resurrect/
+last_resurrect_session
