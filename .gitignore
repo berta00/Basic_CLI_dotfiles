@@ -11,7 +11,7 @@ backup/
 
 
 # tmux
-plugins/
+tmux/plugins/*
 
 resurrect/
 last_resurrect_session
