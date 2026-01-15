@@ -18,10 +18,10 @@ vim.opt.rtp:prepend(lazypath)
 
 local keymap = vim.keymap
 
-keymap.set('n', '<M-Left>', '<cmd>TmuxNavigateLeft<cr>')
-keymap.set('n', '<M-Down>', '<cmd>TmuxNavigateDown<cr>')
-keymap.set('n', '<M-Up>', '<cmd>TmuxNavigateUp<cr>')
-keymap.set('n', '<M-Right>', '<cmd>TmuxNavigateRight<cr>')
+keymap.set('n', '<M-l>', '<cmd>TmuxNavigateLeft<cr>')
+keymap.set('n', '<M-h>', '<cmd>TmuxNavigateRight<cr>')
+keymap.set('n', '<M-j>', '<cmd>TmuxNavigateDown<cr>')
+keymap.set('n', '<M-k>', '<cmd>TmuxNavigateUp<cr>')
 
 keymap.set('n', '<leader>\\', '<cmd>split<cr>')
 keymap.set('n', '<leader>|', '<cmd>vsplit<cr>')
