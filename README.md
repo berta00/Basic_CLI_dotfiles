@@ -12,19 +12,19 @@
 
 `C-a d`: detach from current session
 
-`M-Left`: move to the left panel  
-`M-Right`: move to the right panel  
-`M-Up`: move to the upper panel  
-`M-Down`: move to the lower panel  
+`M-l`: move to the left panel  
+`M-h`: move to the right panel  
+`M-k`: move to the upper panel  
+`M-j`: move to the lower panel  
 
 `C-a \`: new horizontal split  
 `C-a |`: new vertical split  
 `C-a x`: kill panel  
 
-`C-a Left`: resize the panel to the left  
-`C-a Right`: resize the panel to the right    
-`C-a Up`: resize the panel to the top  
-`C-a Down`: resize the panel to the bottom  
+`C-a l`: resize the panel to the left  
+`C-a h`: resize the panel to the right    
+`C-a k`: resize the panel to the top  
+`C-a j`: resize the panel to the bottom  
 
 `C-a C-s`: save session (automatic save: 5 min) 
 
@@ -34,10 +34,10 @@
 
 `:Lazy`: lazy dashboard  
 
-`M-Left`: move to the left panel  
-`M-Right`: move to the right panel  
-`M-Up`: move to the upper panel  
-`M-Down`: move to the lower panel  
+`M-l`: move to the left panel  
+`M-h`: move to the right panel  
+`M-k`: move to the upper panel  
+`M-j`: move to the lower panel  
 
 `  \`: new horizontal split  
 `  |`: new vertical split  
